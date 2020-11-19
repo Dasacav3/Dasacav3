@@ -1,5 +1,18 @@
-# Dasacav3.dev
+# Dasacav3 Developer :3
 ### Hi there 👋
+
+Me encanta el mundo informático soy un desarrollador freelance. Estoy a favor de los proyectos Open Source 
+
+
+### Skills
+- Python
+- JavaScript
+- SQL
+- HTML & CSS
+
+### Contactame
+
+
 
 <!--
 **Dasacav3/Dasacav3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
