@@ -1,8 +1,13 @@
 # Dasacav3 Developer :3
-### Hi there 👋
+### Hi there, Welcome! 👋
 
-Me encanta el mundo informático soy un desarrollador freelance. Estoy a favor de los proyectos Open Source 
+I love informatic world, I'm a freelance software developer. I like Open Source projects, have differents knowledges in various development fields, but... I prefer Front-end 
 
+### Goals
+- Fullstack development with JS and Vue
+- Learn PHP
+- Learn Java
+- Learn C#
 
 ### Skills
 - Python
@@ -10,7 +15,7 @@ Me encanta el mundo informático soy un desarrollador freelance. Estoy a favor d
 - SQL
 - HTML & CSS
 
-### Contactame
+### Need me? Want work with me? Contact me!
 
 
 
