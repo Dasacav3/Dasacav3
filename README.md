@@ -1,7 +1,9 @@
 # Dasacav3 Developer :3
 ### Hi there, Welcome! 👋
 
-I love informatic world, I'm a freelance software developer. I like Open Source projects, have differents knowledges in various development fields, but... I prefer Front-end 
+Me encanta el mundo de la informatica, soy un desarrollador de software freelancer. Estoy a favor de los proyectos Open Source, tengo diferentes conocimientos en la mayoria de etapas del desarrollo de software, pero... prefiero enfocarme en el Front-end.
+
+Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia y aprender nuevas cosas principalmente. 📌
 
 ### Goals
 - Fullstack development with JS and Vue
@@ -15,8 +17,8 @@ I love informatic world, I'm a freelance software developer. I like Open Source 
 - SQL
 - HTML & CSS
 
-### Need me? Want work with me? Contact me!
-
+### Me necesitas? Quieres colaborar conmigo? Contactame!
+- Email: micuenta3719@gmail.com
 
 
 <!--
