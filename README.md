@@ -1,23 +1,23 @@
-# Dasacav3 Developer :3
+# Dasacav3 Developer :3 👨‍💻
 ### Hi there, Welcome! 👋
 
 Soy una persona autodidacta que le apasiona el mundo de la tecnología e informatica, desarrollador de software freelancer.
 
 Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia y aprender nuevas cosas principalmente. 📌
 
-### Goals
+### Objetivos 🎯
 - Desarrollo Fullstack con JS y Vue
 - Aprender PHP
 - Aprender Java
 - Aprender C#
 
-### Skills
+### Skills 🎉
 - Python
 - JavaScript
 - SQL
 - HTML & CSS
 
-### Me necesitas? Quieres colaborar conmigo? Contactame!
+### Me necesitas? Quieres colaborar conmigo? Contactame! 🔋
 - Email: micuenta3719@gmail.com
 - Discord: Dasacav3#4841
 
