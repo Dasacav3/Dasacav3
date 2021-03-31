@@ -7,13 +7,13 @@ Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia
 
 ### Objetivos 🎯
 - Desarrollo Fullstack con JS y Vue
-- Desarrollo con PHP
 - Desarrollo con Java
 - Desarrollo con C#
 
 ### Skills 🎉
 - Python
 - JavaScript
+- PHP
 - SQL
 - HTML & CSS
 
