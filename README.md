@@ -6,7 +6,7 @@ Soy una persona autodidacta que le apasiona el mundo de la tecnología e informa
 Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia y aprender nuevas cosas principalmente. 📌
 
 ### Objetivos 🎯
-- Desarrollo Fullstack con JS y Vue
+- Desarrollo Fullstack con JS y Vue/Svelte
 - Desarrollo con Java
 - Desarrollo con C#
 
