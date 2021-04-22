@@ -7,9 +7,9 @@ Soy una persona autodidacta que le apasiona el mundo de la tecnología e informa
 Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia y aprender nuevas cosas principalmente. 📌
 
 ### Objetivos 🎯
-- Desarrollo fullstack con JS/Node (Frameworks: React/Vue/Svelte)
+- Desarrollo fullstack con JS/Node
 - Desarrollo con .NET
-- Desarrollo con Java (Android)
+- Desarrollo con Java
 
 ### Skills 🎉
 - JavaScript
