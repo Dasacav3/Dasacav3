@@ -1,4 +1,5 @@
-# Dasacav3 Developer :3 👨‍💻
+# ![DASACAV3 DEV](https://user-images.githubusercontent.com/57577210/115651570-0636ba00-a2f1-11eb-8a14-99af70baaab3.png)
+
 ### Hi there, Welcome! 👋
 
 Soy una persona autodidacta que le apasiona el mundo de la tecnología e informatica, desarrollador de software freelancer.
@@ -6,15 +7,15 @@ Soy una persona autodidacta que le apasiona el mundo de la tecnología e informa
 Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia y aprender nuevas cosas principalmente. 📌
 
 ### Objetivos 🎯
-- Desarrollo Fullstack con JS y Vue/Svelte
-- Desarrollo con Java
-- Desarrollo con C#
+- Desarrollo fullstack con JS/Node (Frameworks: React/Vue/Svelte)
+- Desarrollo con .NET
+- Desarrollo con Java (Android)
 
 ### Skills 🎉
-- Python
 - JavaScript
 - PHP
-- SQL
+- Python
+- SQL (MariaDB/MySQL/SQLite)
 - HTML & CSS
 
 ### Me necesitas? Quieres colaborar conmigo? Contactame! 🔋
