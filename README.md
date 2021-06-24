@@ -15,8 +15,10 @@ Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia
 - JavaScript
 - PHP
 - Python
-- SQL (MariaDB/MySQL/SQLite)
+- SQL (MariaDB/MySQL/SQL Server)
 - HTML & CSS
+- Docker
+- Linux SysAdmin
 
 ### Me necesitas? Quieres colaborar conmigo? Contactame! 🔋
 - Email: micuenta3719@gmail.com
