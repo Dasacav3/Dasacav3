@@ -21,7 +21,7 @@ Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia
 - Linux SysAdmin
 
 ### Me necesitas? Quieres colaborar conmigo? Contactame! 🔋
-- Email: micuenta3719@gmail.com
+- Email: soporte.dasacav3.dev@gmail.com
 - Discord: Dasacav3#4841
 
 <!--
