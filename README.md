@@ -9,8 +9,14 @@
 
 <br>
 
-### Skills 🎉
 
+### Hi there, Welcome! 👋
+
+Soy una persona autodidacta que le apasiona el mundo de la tecnología e informatica, desarrollador de software freelancer.
+
+Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia y aprender nuevas cosas principalmente. 📌
+
+### Skills 🎉
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://api.iconify.design/grommet-icons/js.svg">
   <img align="center" alt="PHP" width="50" src="https://api.iconify.design/vscode-icons/file-type-php3.svg">
@@ -25,12 +31,6 @@
   <img align="center" alt="MySQL" width="35" src="https://api.iconify.design/logos/mysql.svg">
   <img align="center" alt="MariaDB" width="40" src="https://api.iconify.design/logos/mariadb-icon.svg">
  </div>
-
-### Hi there, Welcome! 👋
-
-Soy una persona autodidacta que le apasiona el mundo de la tecnología e informatica, desarrollador de software freelancer.
-
-Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia y aprender nuevas cosas principalmente. 📌
 
 ### Objetivos 🎯
 - Desarrollo con Dotnet
