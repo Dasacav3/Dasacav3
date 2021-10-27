@@ -39,5 +39,9 @@ Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia
 
 
 ### Me necesitas? Quieres colaborar conmigo? Contactame! 🔋
-- Email: soporte.dasacav3.dev@gmail.com
-- Discord: Dasacav3#4841
+<div> 
+<a href="https://twitter.com/Dasacav31" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/_dasacav3_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:soporte.dasacav3.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-carrillo-4457131a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
