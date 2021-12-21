@@ -34,8 +34,8 @@ Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia
 
 ### Objetivos 🎯
 - Desarrollo con Dotnet
-- Desarrollo con Java
 - Desarrollo con Golang
+- Desarrollo Blockchain
 
 
 ### Me necesitas? Quieres colaborar conmigo? Contactame! 🔋
