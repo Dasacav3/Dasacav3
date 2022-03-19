@@ -35,7 +35,7 @@ I am looking for projects in which I can contribute to broaden my experience and
 ### Objetivos 🎯
 - Development with Dotnet
 - Development with Golang
-- Blockchain Developmente
+- Blockchain Development
 
 
 ### You need me? Do you want to collaborate with me? Contact me! 🔋
