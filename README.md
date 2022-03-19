@@ -32,7 +32,7 @@ I am looking for projects in which I can contribute to broaden my experience and
   <img align="center" alt="MariaDB" width="40" src="https://api.iconify.design/logos/mariadb-icon.svg">
  </div>
 
-### Objetivos 🎯
+### Objectives 🎯
 - Development with Dotnet
 - Development with Golang
 - Blockchain Development
