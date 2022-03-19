@@ -12,9 +12,9 @@
 
 ### Hi there, Welcome! 👋
 
-Soy una persona autodidacta que le apasiona el mundo de la tecnología e informatica, desarrollador de software freelancer.
+I am a self-taught person who is passionate about the world of technology and computing, freelancer software developer.
 
-Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia y aprender nuevas cosas principalmente. 📌
+I am looking for projects in which I can contribute to broaden my experience and learn new things mainly. 📌
 
 ### Skills 🎉
 <div style="display: inline_block"><br>
@@ -33,12 +33,12 @@ Estoy buscando proyectos en los cuales pueda aportar para ampliar mi experiencia
  </div>
 
 ### Objetivos 🎯
-- Desarrollo con Dotnet
-- Desarrollo con Golang
-- Desarrollo Blockchain
+- Development with Dotnet
+- Development with Golang
+- Blockchain Developmente
 
 
-### Me necesitas? Quieres colaborar conmigo? Contactame! 🔋
+### You need me? Do you want to collaborate with me? Contact me! 🔋
 <div> 
 <a href="https://twitter.com/Dasacav31" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_dasacav3_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
