@@ -18,7 +18,7 @@ I am looking for projects in which I can contribute to broaden my experience and
 
 ### Skills 🎉
 <div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://api.iconify.design/grommet-icons/js.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://api.iconify.design/vscode-icons/file-type-js-official.svg">
   <img align="center" alt="PHP" width="50" src="https://api.iconify.design/vscode-icons/file-type-php3.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://api.iconify.design/logos/python.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://api.iconify.design/vscode-icons/file-type-html.svg">
