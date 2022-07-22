@@ -32,6 +32,7 @@ I am looking for projects in which I can contribute to broaden my experience and
   <img align="center" alt="Linux" width="40" src="https://api.iconify.design/flat-color-icons/linux.svg">
   <img align="center" alt="MySQL" width="35" src="https://api.iconify.design/logos/mysql.svg">
   <img align="center" alt="MariaDB" width="40" src="https://api.iconify.design/logos/mariadb-icon.svg">
+  <img align="center" alt="AWS" width="40" src="https://api.iconify.design/logos/aws.svg">
  </div>
 
 ### Objectives 🎯
