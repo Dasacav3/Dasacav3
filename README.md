@@ -29,12 +29,13 @@ I am looking for projects in which I can contribute to broaden my experience and
   <img align="center" alt="LARAVEL" height="30" width="40" src="https://api.iconify.design/logos/laravel.svg">
   <img align="center" alt="DJANGO" height="30" width="40" src="https://api.iconify.design/logos/django-icon.svg">
   <img align="center" alt="DOCKER" height="30" width="50" src="https://api.iconify.design/logos/docker-icon.svg">
-  <img align="center" alt="Linux" width="40" src="https://api.iconify.design/flat-color-icons/linux.svg">
+  <img align="center" alt="LINUX" width="40" src="https://api.iconify.design/flat-color-icons/linux.svg">
+  <img align="center" alt="DYNAMODB" width="30" src="https://api.iconify.design/logos/aws-dynamodb.svg">
   <img align="center" alt="MySQL" width="35" src="https://api.iconify.design/logos/mysql.svg">
   <img align="center" alt="MariaDB" width="40" src="https://api.iconify.design/logos/mariadb-icon.svg">
   <img align="center" alt="AWS" width="40" src="https://api.iconify.design/logos/aws.svg">
   <img align="center" alt="AZURE" width="30" src="https://api.iconify.design/logos/microsoft-azure.svg">
-  <img align="center" alt="FIREBASE" width="30" src="https://api.iconify.design/logos/firebase.svg">
+  <img align="center" alt="FIREBASE" width="28" src="https://api.iconify.design/logos/firebase.svg">
  </div>
 
 ### Objectives 🎯
