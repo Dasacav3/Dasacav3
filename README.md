@@ -1,4 +1,4 @@
-# ![Dasacav3 Developer](https://user-images.githubusercontent.com/57577210/182373454-7562b6da-2f39-47bf-9353-e9dfed1d76f1.png)
+# <div align="center"><img src="https://user-images.githubusercontent.com/57577210/182373454-7562b6da-2f39-47bf-9353-e9dfed1d76f1.png"></img></div>
 
 <div align="center">
   <a href="https://github.com/Dasacav3">
@@ -17,7 +17,7 @@ Systems Engineering student specialized in the area of Web Development both on t
 I am looking for projects in which I can contribute to broaden my experience and learn new things mainly. 📌
 
 ### Skills 🎉
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://api.iconify.design/vscode-icons/file-type-html.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://api.iconify.design/vscode-icons/file-type-css.svg">
   <img align="center" alt="TAILWINDCSS" height="30" width="40" src="https://api.iconify.design/logos/tailwindcss-icon.svg">
